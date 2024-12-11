@@ -153,16 +153,19 @@
     },
     {
       "part1": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "202019",
         "attempts": [],
-        "time": null
+        "time": 1.29925
       },
       "part2": {
-        "solved": false,
-        "result": null,
-        "attempts": [],
-        "time": null
+        "solved": true,
+        "result": "239321955280205",
+        "attempts": [
+          "202019",
+          "541157"
+        ],
+        "time": 21.623395
       }
     },
     {
